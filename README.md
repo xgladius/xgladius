@@ -3,7 +3,7 @@
   <br></br>
   passion for reverse engineering software and operating systems.
   <br></br>
-  i do a little game hacking
+  i do a little game hacking.
   <br></br>
   contact me on discord: xgladius#8968
   <br></br>
